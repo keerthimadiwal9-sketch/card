@@ -1,0 +1,33 @@
+.box{
+    background-color: bisque;
+    height: 600px;
+    width: 400px;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid black;
+    text-align: center;
+    box-shadow: 10px 10px 100px orangered;
+    border-bottom-left-radius: 20px; 
+    border-bottom-right-radius: 20px ;
+    border-top-left-radius: 20px;
+    border-top-right-radius:20px ;
+
+}
+img{
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    background-color: white;
+}
+h2{
+    background-color: white;
+}
